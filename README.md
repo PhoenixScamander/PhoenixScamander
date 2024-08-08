@@ -1,0 +1,6 @@
+- Hi, I’m Phoenix Scamander
+- I’m interested in Ethical Hacking
+- I’m currently learning Python & Hacking
+- Pronouns: He/him
+- Fun fact: I'm a therian
+- I'm a begginer in programming and hacking, so my knowledge is limited
